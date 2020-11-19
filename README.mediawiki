@@ -1,5 +1,5 @@
 __NOTOC__
-= Linux/Unix script to compile garmin *.img map files from openmtbmap.org or openvelomap.org files =
+= MacOS and Linux/Unix script to compile garmin *.img map files from openmtbmap.org or openvelomap.org files =
 
 === Requirements ===
 
