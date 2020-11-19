@@ -11,6 +11,19 @@ you can obtain mkgmap with your package manager or from http://www.mkgmap.org.uk
 
 gmt linux version can be downloaded from http://www.gmaptool.eu/en/content/gmaptool
 
+==== Installation of required for MacOS ====
+
+To install p7zip using Homebrew, first update your brew formulae to be sure you are getting the latest p7zip.
+
+$ brew update
+Use Homebrew to install p7zip:
+$ brew install p7zip
+
+Install Java from Oracle website:
+   https://www.java.com/en/download/
+   
+Java is required for mkgmap as downloaded from URL above.
+
 ==== Installation of required files on Debian/Ubuntu ====
 
   sudo apt-get install zsh p7zip-full
