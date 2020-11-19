@@ -22,6 +22,7 @@ Use Homebrew to install p7zip:
 Install Java from Oracle website 
 
 https://www.java.com/en/download/
+
 Java is required for mkgmap as downloaded from URL above.
 
 ==== Installation of required files on Debian/Ubuntu ====
